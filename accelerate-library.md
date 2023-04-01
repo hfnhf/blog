@@ -1,7 +1,7 @@
 ---
 title: "Introducing 🤗 Accelerate"
 thumbnail: /blog/assets/20_accelerate_library/accelerate_diff.png
-authors:
+authors: debug
 - user: sgugger
 ---
 
